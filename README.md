@@ -1,8 +1,8 @@
-# Power BI Sales Dashboard
+# Uber Trip Analysis Dashboard (Power BI)
 
 ## Project Overview
 
-This project analyzes sales data using Power BI to identify trends, top products, and regional performance.
+This Power BI project analyzes Uber trip data to understand ride demand, revenue trends, vehicle usage, rider behavior, and popular locations.
 
 ## Tools Used
 
@@ -10,9 +10,37 @@ This project analyzes sales data using Power BI to identify trends, top products
 * Excel
 * DAX
 
+## Dashboard Pages
+
+### Home Page
+
+![Home](home.png)
+
+### Overview Page
+
+![Overview](overview.png)
+
+### Vehicle Analysis
+
+![Vehicle](vehicle_analysis.png)
+
+### Revenue Analysis
+
+![Revenue](revenue_analysis.png)
+
+### Rider Analysis
+
+![Rider](rider_analysis.png)
+
+### Location Analysis
+
+![Locations](location_analysis.png)
+
 ## Key Insights
 
-* Top selling products
-* Monthly sales trends
-* Regional sales performance
+* Peak trip demand hours
+* Revenue trends across trips
+* Vehicle usage patterns
+* Rider activity insights
+* Most popular pickup and drop locations
 
