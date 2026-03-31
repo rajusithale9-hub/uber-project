@@ -14,19 +14,19 @@ This Power BI project analyzes Uber trip data to understand ride demand, revenue
 
 ### Home Page
 
-![Home](home.png)
+![Home](Home.png)
 
 ### Overview Page
 
-![Overview](overview.png)
+![Overview](Overview.png)
 
 ### Vehicle Analysis
 
-![Vehicle](vehicle_analysis.png)
+![Vehicle](Vehicle_analysis.png)
 
 ### Revenue Analysis
 
-![Revenue](revenue_analysis.png)
+![Revenue](Revenue_analysis.png)
 
 ### Rider Analysis
 
